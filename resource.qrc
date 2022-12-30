@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>img/cat2.png</file>
+        <file>img/cat1.png</file>
+        <file>img/block.png</file>
+        <file>img/block1.png</file>
+        <file>img/5.gif</file>
+        <file>img/4.gif</file>
+        <file>img/2.gif</file>
+        <file>img/3.gif</file>
+        <file>img/1.gif</file>
+        <file>img/b.png</file>
+        <file>img/empty_mis.png</file>
+        <file>img/full_mis.png</file>
+        <file>img/h3.gif</file>
+        <file>img/h2.gif</file>
+        <file>img/h1.gif</file>
+        <file>img/val.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>1.mp3</file>
+    </qresource>
+</RCC>
